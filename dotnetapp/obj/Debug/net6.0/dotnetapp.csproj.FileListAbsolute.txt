@@ -1,0 +1,15 @@
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.deps.json
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.runtimeconfig.json
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.dll
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.pdb
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.csproj.AssemblyReference.cache
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.AssemblyInfoInputs.cache
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.AssemblyInfo.cs
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.dll
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/refint/dotnetapp.dll
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.pdb
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/dotnetapp.genruntimeconfig.cache
+/home/coder/project/workspace/dotnetapp/obj/Debug/net6.0/ref/dotnetapp.dll
